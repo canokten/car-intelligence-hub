@@ -179,8 +179,8 @@ vehicle_options = [
 layout = html.Div(
     style={"maxWidth": 960, "margin": "40px auto", "fontFamily": "system-ui, sans-serif"},
     children=[
-        html.H1("CarWise AI — MVP"),
-        html.P("Vehicle summary + annual fuel or electricity cost estimator."),
+        html.H1("Car Search"),
+        html.P("Explore detailed car profiles and estimated annual fuel costs."),
         html.P(LAST_UPDATED, style={"color": "#666", "fontStyle": "italic"}),
 
         # ---------- Selection ----------

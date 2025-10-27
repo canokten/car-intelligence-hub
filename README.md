@@ -12,7 +12,6 @@ Built with Dash, OpenAI API, and pandas — offering real-time rankings, categor
 ## 🧰 Tech Stack
 - Python 3.11+
 - Dash
-- Plotly
 - OpenAI API
 - Bootstrap (Flatly theme)
 

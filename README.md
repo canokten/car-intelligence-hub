@@ -1,25 +1,3 @@
-CAR-INTELLIGENCE-HUB/      ← main project folder
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore             
-├── .env                   ← (NOT pushed)
-│
-├── data/
-│   ├── bev.csv
-│   ├── car_rankings.csv
-│   ├── conventional.csv
-│   ├── phev.csv
-│   └── last_updated.txt
-│
-└── pages/
-    ├── home.py
-    ├── car_search.py
-    ├── myCar.py
-    └── rankings.py
-
-
 # 🚗 Car Intelligence Hub
 
 An interactive Dash app that uses AI to analyze, rank, and recommend cars between 2020–2025.  

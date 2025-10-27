@@ -1,0 +1,9 @@
+# Ignore environment variables and cache
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore notebooks or logs (if you ever add them)
+*.ipynb
+*.log

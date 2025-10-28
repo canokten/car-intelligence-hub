@@ -27,10 +27,10 @@ It includes:
 
 Each car is scored across four key dimensions:
 
-Performance - Derived from powertrain type, fuel economy, and drivetrain characteristics.
-Value       - Considers energy cost per year and comparative efficiency within its class.
-Reliability	- Estimated based on brand reliability averages and historical trend data.
-Eco	        - Based on CO₂ emissions per km and powertrain classification (EV, hybrid, gas).
+- Performance   - Derived from powertrain type, fuel economy, and drivetrain characteristics.
+- Value         - Considers energy cost per year and comparative efficiency within its class.
+- Reliability	- Estimated based on brand reliability averages and historical trend data.
+- Eco	        - Based on CO₂ emissions per km and powertrain classification (EV, hybrid, gas).
 
 Fuel and electricity costs are computed from dataset consumption values using current Canadian averages:
 
@@ -52,6 +52,7 @@ The app uses OpenAI’s GPT models:
 - pandas
 - OpenAI API (gpt-4o-mini, gpt-4o)
 - Bootstrap (Flatly theme)
+- Render (Web Service Deployement)
 
 ## Run Locally
 ```bash
